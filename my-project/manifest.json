@@ -11,15 +11,15 @@
   "id": "br.dev.ufersa.sd.grupo-02.josecarlos.www",
   "icons": [
     {
-      "src": "vite.sgv",
-      "type": "image/sgv",
+      "src": "vite.svg",
+      "type": "image/svg",
       "sizes": "512x512"
     }
   ],
   "screenshots": [
     {
-      "src": "vite.sgv",
-      "type": "image/sgv",
+      "src": "vite.svg",
+      "type": "image/svg",
       "sizes": "512x512"
     }
   ]
